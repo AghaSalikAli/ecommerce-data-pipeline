@@ -1,0 +1,190 @@
+category_id,category_name,description
+1,Electronics,Explore our wide selection of electronics.
+2,Smartphones,Explore our wide selection of smartphones.
+3,Feature Phones,Explore our wide selection of feature phones.
+4,Laptops,Explore our wide selection of laptops.
+5,Desktop Computers,Explore our wide selection of desktop computers.
+6,Computer Components,Explore our wide selection of computer components.
+7,Monitors,Explore our wide selection of monitors.
+8,Printers & Scanners,Explore our wide selection of printers & scanners.
+9,Computer Accessories,Explore our wide selection of computer accessories.
+10,Tablets,Explore our wide selection of tablets.
+11,E-Readers,Explore our wide selection of e-readers.
+12,Wearable Tech,Explore our wide selection of wearable tech.
+13,Smartwatches,Explore our wide selection of smartwatches.
+14,Fitness Trackers,Explore our wide selection of fitness trackers.
+15,Headphones,Explore our wide selection of headphones.
+16,Earbuds,Explore our wide selection of earbuds.
+17,Portable Speakers,Explore our wide selection of portable speakers.
+18,Home Audio,Explore our wide selection of home audio.
+19,Televisions,Explore our wide selection of televisions.
+20,Streaming Devices,Explore our wide selection of streaming devices.
+21,Cameras,Explore our wide selection of cameras.
+22,DSLR Cameras,Explore our wide selection of dslr cameras.
+23,Mirrorless Cameras,Explore our wide selection of mirrorless cameras.
+24,Action Cameras,Explore our wide selection of action cameras.
+25,Camera Accessories,Explore our wide selection of camera accessories.
+26,Drones,Explore our wide selection of drones.
+27,Gaming Consoles,Explore our wide selection of gaming consoles.
+28,Video Games,Explore our wide selection of video games.
+29,Gaming Accessories,Explore our wide selection of gaming accessories.
+30,VR & AR Devices,Explore our wide selection of vr & ar devices.
+31,Smart Home Devices,Explore our wide selection of smart home devices.
+32,Home Automation,Explore our wide selection of home automation.
+33,Security Cameras,Explore our wide selection of security cameras.
+34,Networking Equipment,Explore our wide selection of networking equipment.
+35,Routers,Explore our wide selection of routers.
+36,Modems,Explore our wide selection of modems.
+37,Cables & Adapters,Explore our wide selection of cables & adapters.
+38,Software,Explore our wide selection of software.
+39,Office Software,Explore our wide selection of office software.
+40,Antivirus & Security,Explore our wide selection of antivirus & security.
+41,Cloud Storage,Explore our wide selection of cloud storage.
+42,Home & Kitchen,Explore our wide selection of home & kitchen.
+43,Furniture,Explore our wide selection of furniture.
+44,Bedroom Furniture,Explore our wide selection of bedroom furniture.
+45,Living Room Furniture,Explore our wide selection of living room furniture.
+46,Office Furniture,Explore our wide selection of office furniture.
+47,Mattresses,Explore our wide selection of mattresses.
+48,Bedding & Linens,Explore our wide selection of bedding & linens.
+49,Home Decor,Explore our wide selection of home decor.
+50,Wall Art,Explore our wide selection of wall art.
+51,Lighting,Explore our wide selection of lighting.
+52,Rugs & Carpets,Explore our wide selection of rugs & carpets.
+53,Kitchen Appliances,Explore our wide selection of kitchen appliances.
+54,Large Appliances,Explore our wide selection of large appliances.
+55,Small Appliances,Explore our wide selection of small appliances.
+56,Cookware,Explore our wide selection of cookware.
+57,Bakeware,Explore our wide selection of bakeware.
+58,Dining & Entertaining,Explore our wide selection of dining & entertaining.
+59,Storage & Organization,Explore our wide selection of storage & organization.
+60,Cleaning Supplies,Explore our wide selection of cleaning supplies.
+61,Smart Kitchen Gadgets,Explore our wide selection of smart kitchen gadgets.
+62,Men's Clothing,Explore our wide selection of men's clothing.
+63,Women's Clothing,Explore our wide selection of women's clothing.
+64,Kids' Clothing,Explore our wide selection of kids' clothing.
+65,Baby Clothing,Explore our wide selection of baby clothing.
+66,Footwear,Explore our wide selection of footwear.
+67,Men's Shoes,Explore our wide selection of men's shoes.
+68,Women's Shoes,Explore our wide selection of women's shoes.
+69,Kids' Shoes,Explore our wide selection of kids' shoes.
+70,Accessories,Explore our wide selection of accessories.
+71,Watches,Explore our wide selection of watches.
+72,Jewelry,Explore our wide selection of jewelry.
+73,Handbags & Wallets,Explore our wide selection of handbags & wallets.
+74,Sunglasses,Explore our wide selection of sunglasses.
+75,Hats & Caps,Explore our wide selection of hats & caps.
+76,Belts & Suspenders,Explore our wide selection of belts & suspenders.
+77,Scarves & Wraps,Explore our wide selection of scarves & wraps.
+78,Sportswear,Explore our wide selection of sportswear.
+79,Lingerie & Sleepwear,Explore our wide selection of lingerie & sleepwear.
+80,Swimwear,Explore our wide selection of swimwear.
+81,Makeup,Explore our wide selection of makeup.
+82,Skincare,Explore our wide selection of skincare.
+83,Hair Care,Explore our wide selection of hair care.
+84,Fragrances,Explore our wide selection of fragrances.
+85,Men's Grooming,Explore our wide selection of men's grooming.
+86,Bath & Body,Explore our wide selection of bath & body.
+87,Oral Care,Explore our wide selection of oral care.
+88,Beauty Tools & Accessories,Explore our wide selection of beauty tools & accessories.
+89,Health & Wellness,Explore our wide selection of health & wellness.
+90,Vitamins & Supplements,Explore our wide selection of vitamins & supplements.
+91,Fitness Equipment,Explore our wide selection of fitness equipment.
+92,Medical Supplies,Explore our wide selection of medical supplies.
+93,Personal Protective Equipment,Explore our wide selection of personal protective equipment.
+94,Baby Gear,Explore our wide selection of baby gear.
+95,Strollers,Explore our wide selection of strollers.
+96,Car Seats,Explore our wide selection of car seats.
+97,Baby Feeding,Explore our wide selection of baby feeding.
+98,Diapers & Potty,Explore our wide selection of diapers & potty.
+99,Baby Toys,Explore our wide selection of baby toys.
+100,Kids' Toys,Explore our wide selection of kids' toys.
+101,Educational Toys,Explore our wide selection of educational toys.
+102,Board Games,Explore our wide selection of board games.
+103,Outdoor Play,Explore our wide selection of outdoor play.
+104,Outdoor Recreation,Explore our wide selection of outdoor recreation.
+105,Camping & Hiking,Explore our wide selection of camping & hiking.
+106,Cycling,Explore our wide selection of cycling.
+107,Water Sports,Explore our wide selection of water sports.
+108,Winter Sports,Explore our wide selection of winter sports.
+109,Team Sports,Explore our wide selection of team sports.
+110,Fitness Accessories,Explore our wide selection of fitness accessories.
+111,Yoga & Pilates,Explore our wide selection of yoga & pilates.
+112,Hunting & Fishing,Explore our wide selection of hunting & fishing.
+113,Automotive Electronics,Explore our wide selection of automotive electronics.
+114,Car Accessories,Explore our wide selection of car accessories.
+115,Motorcycle Gear,Explore our wide selection of motorcycle gear.
+116,Auto Parts,Explore our wide selection of auto parts.
+117,Tires & Wheels,Explore our wide selection of tires & wheels.
+118,Automotive Tools & Equipment,Explore our wide selection of automotive tools & equipment.
+119,RV & Trailer,Explore our wide selection of rv & trailer.
+120,Dog Supplies,Explore our wide selection of dog supplies.
+121,Cat Supplies,Explore our wide selection of cat supplies.
+122,Fish & Aquatic Pets,Explore our wide selection of fish & aquatic pets.
+123,Bird Supplies,Explore our wide selection of bird supplies.
+124,Small Animal Supplies,Explore our wide selection of small animal supplies.
+125,Reptile Supplies,Explore our wide selection of reptile supplies.
+126,Pet Grooming,Explore our wide selection of pet grooming.
+127,Books,Explore our wide selection of books.
+128,eBooks,Explore our wide selection of ebooks.
+129,Audiobooks,Explore our wide selection of audiobooks.
+130,Magazines,Explore our wide selection of magazines.
+131,Music,Explore our wide selection of music.
+132,Vinyl Records,Explore our wide selection of vinyl records.
+133,CDs,Explore our wide selection of cds.
+134,DVD & Blu-ray,Explore our wide selection of dvd & blu-ray.
+135,Office Supplies,Explore our wide selection of office supplies.
+136,School Supplies,Explore our wide selection of school supplies.
+137,Stationery,Explore our wide selection of stationery.
+138,Industrial Supplies,Explore our wide selection of industrial supplies.
+139,Janitorial Supplies,Explore our wide selection of janitorial supplies.
+140,Packaging Materials,Explore our wide selection of packaging materials.
+141,Lab & Scientific Equipment,Explore our wide selection of lab & scientific equipment.
+142,Safety & Security,Explore our wide selection of safety & security.
+143,Outdoor Furniture,Explore our wide selection of outdoor furniture.
+144,Garden Tools,Explore our wide selection of garden tools.
+145,Grills & Outdoor Cooking,Explore our wide selection of grills & outdoor cooking.
+146,Plants & Seeds,Explore our wide selection of plants & seeds.
+147,Lawn Care,Explore our wide selection of lawn care.
+148,Patio Decor,Explore our wide selection of patio decor.
+149,Pools & Spa,Explore our wide selection of pools & spa.
+150,Gift Cards,Explore our wide selection of gift cards.
+151,Party Supplies,Explore our wide selection of party supplies.
+152,Seasonal Decor,Explore our wide selection of seasonal decor.
+153,Holiday Lighting,Explore our wide selection of holiday lighting.
+154,Costumes,Explore our wide selection of costumes.
+155,Pantry Staples,Explore our wide selection of pantry staples.
+156,Snacks & Sweets,Explore our wide selection of snacks & sweets.
+157,Beverages,Explore our wide selection of beverages.
+158,Coffee & Tea,Explore our wide selection of coffee & tea.
+159,International Foods,Explore our wide selection of international foods.
+160,Organic & Natural,Explore our wide selection of organic & natural.
+161,Health Foods,Explore our wide selection of health foods.
+162,Fresh Produce,Explore our wide selection of fresh produce.
+163,Dairy & Eggs,Explore our wide selection of dairy & eggs.
+164,Meat & Seafood,Explore our wide selection of meat & seafood.
+165,Art Supplies,Explore our wide selection of art supplies.
+166,Craft Supplies,Explore our wide selection of craft supplies.
+167,DIY Tools,Explore our wide selection of diy tools.
+168,Sewing & Knitting,Explore our wide selection of sewing & knitting.
+169,Model Building,Explore our wide selection of model building.
+170,Musical Instruments,Explore our wide selection of musical instruments.
+171,Photography Accessories,Explore our wide selection of photography accessories.
+172,Luggage & Suitcases,Explore our wide selection of luggage & suitcases.
+173,Travel Accessories,Explore our wide selection of travel accessories.
+174,Backpacks,Explore our wide selection of backpacks.
+175,Travel Electronics,Explore our wide selection of travel electronics.
+176,Coins & Currency,Explore our wide selection of coins & currency.
+177,Trading Cards,Explore our wide selection of trading cards.
+178,Action Figures,Explore our wide selection of action figures.
+179,Memorabilia,Explore our wide selection of memorabilia.
+180,Antiques,Explore our wide selection of antiques.
+181,Software Downloads,Explore our wide selection of software downloads.
+182,Online Subscriptions,Explore our wide selection of online subscriptions.
+183,Digital Gift Cards,Explore our wide selection of digital gift cards.
+184,3D Printers,Explore our wide selection of 3d printers.
+185,Printing Filaments,Explore our wide selection of printing filaments.
+186,Smart Lighting,Explore our wide selection of smart lighting.
+187,Smart Thermostats,Explore our wide selection of smart thermostats.
+188,EV Charging Equipment,Explore our wide selection of ev charging equipment.
+189,eSports Merchandise,Explore our wide selection of esports merchandise.
